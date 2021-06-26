@@ -1,0 +1,8 @@
+Variable:
+Cuando queremos guardar en la memoria un valor para usarlo luego
+lo almacenamos con un nombre. A ese valor almacenado se lo llama variable
+y puede cambiar o no su valor en cualquier parte del programa.
+Una variable puede ser un número, un texto, puede ser verdadera o falsa,
+puede estar indefinida, es decir, que no la hemos definido.
+También la podemos definir a esa variable con valor nulo.
+

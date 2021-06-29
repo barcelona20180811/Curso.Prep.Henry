@@ -6,3 +6,5 @@ Una variable puede ser un número, un texto, puede ser verdadera o falsa,
 puede estar indefinida, es decir, que no la hemos definido.
 También la podemos definir a esa variable con valor nulo.
 
+
+
